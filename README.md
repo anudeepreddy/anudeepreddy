@@ -1,9 +1,15 @@
 ### Hi there, I’m Anudeep👋
 
-![Anudeep's github stats](https://github-readme-stats.vercel.app/api?username=anudeepreddy&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anudeepreddy&count_private=true)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anudeepreddy&repo=ckeditor5-mentorpick)](https://github.com/anudeepreddy/ckeditor5-mentorpick)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anudeepreddy&repo=github-sweeper)](https://github.com/anudeepreddy/github-sweeper)
+![Anudeep's github stats](https://github-readme-stats.vercel.app/api?username=anudeepreddy&count_private=true)   
+<br />
+
+<h2 align="center">GitHub Streak !! :fire:</h2> 
+<p  align="center">
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=anudeepreddy&)" alt="Anudeep" />
+</p>
+
+
+![Anudeep's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anudeepreddy&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 <!--
 **anudeepreddy/anudeepreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
